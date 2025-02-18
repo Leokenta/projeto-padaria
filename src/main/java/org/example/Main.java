@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Ola Mundo");
         System.out.printf("segundo commit");
+        System.out.printf("terceiro commit");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
